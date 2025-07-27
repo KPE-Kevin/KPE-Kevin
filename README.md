@@ -1,5 +1,5 @@
 <div align="center" width="auto">
-    <img src="./Images/perfil.jpg" width=150 height=150 border-radius=20/>
+    <img src="./Images/perfil.jpg" width=150 height=150 style="border-radius:20px"/>
     <br/>
     <h2>Hi! I'm Kevin Pérez Escamilla</h2>
     <br/>GRAPHIC DESIGNER
