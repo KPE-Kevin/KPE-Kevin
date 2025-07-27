@@ -1,3 +1,3 @@
 <div align="center" width="auto">
-    <img src="./Images/perfil.png" width="250" height="250"/>
+    <img src="./Images/perfil.png" width="150" height="150"/>
 </div>
