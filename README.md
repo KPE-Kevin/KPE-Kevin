@@ -4,7 +4,7 @@
     </div>
     <br/>
     <h2>Hi! I'm Kevin Pérez Escamilla</h2>
-    <br/>GRAPHIC DESIGNER
+    <br/>
     <h3>Developer JR</h3>
 </div>
 
