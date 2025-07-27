@@ -1,9 +1,6 @@
 <div align="center" width="auto">
-    <div style="border-radius:20px;">
-    <img src="./Images/perfil.jpg" width=150 height=150/>
-    </div>
+    <img style="border-radius:20px" src="./Images/perfil.jpg" width=150 height=150/>
     <h2>Hi! I'm Kevin Pérez Escamilla</h2>
-    <br/>
     <h3>Developer JR</h3>
 </div>
 
